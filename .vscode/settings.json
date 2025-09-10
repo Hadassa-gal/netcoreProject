@@ -1,0 +1,32 @@
+{
+    "viraTheme.accent": "Bright Teal",
+    "viraTheme.contrastedTabs": true,
+    "viraTheme.solidLineHighlight": true,
+    "viraTheme.showBorders": true,
+    "viraTheme.useTopTabIndicator": true,
+    "background.editor": {
+        "useFront": true,
+        "style": {
+            "background-position": "100% 100%",
+            "background-size": "auto",
+            "opacity": 0.1
+        },
+        "styles": [
+            {},
+            {},
+            {}
+        ],
+        "images": [],
+        "interval": 0,
+        "random": false
+    },
+    "background.fullscreen": {
+    
+        "images": [],
+        "opacity": 0.1,
+        "size": "cover",
+        "position": "center",
+        "interval": 0,
+        "random": false
+    }
+}
